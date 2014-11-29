@@ -1,0 +1,17 @@
+{
+  "name": "tusk",
+  "version": "0.0.0",
+  "homepage": "https://github.com/twissell/tusk",
+  "authors": [
+    "twissell <avb5260@gmail.com>"
+  ],
+  "description": "site inspired by tusk journal.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
